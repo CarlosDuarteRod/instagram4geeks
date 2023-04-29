@@ -1,0 +1,102 @@
+header{
+    background-color: white;
+    padding: 2px;
+    width: 100%;
+}
+h1{
+   width: 25%;
+    margin:25px auto ;
+}
+body{
+    width: 100%;
+    background-color: rgb(204, 202, 202);
+    margin: 0;
+}
+.div1{
+   background-color: white;
+    margin: 50px auto ;
+   width: 25%;
+}
+.primeraparte{
+    display: flex;
+    justify-content: space-between;
+}
+.primeraparte,.terceraparte{
+    background-color: white;
+}
+.div1 img{
+    height: 500px;
+    width: 100%;   
+}
+.terceraparte{
+    padding: 5px;
+}
+.numero1,.numero2,.numero3,.numero4{
+    color: grey;
+}
+.div2{
+    background-color: white;
+     margin: 50px auto ;
+    width: 25%; 
+}
+.cuerpo1 {
+     display: flex;
+     justify-content: space-between;
+     }
+.cuerpo1, .piedefoto{
+     background-color: white;
+}
+.div2 img{
+     height: 500px;
+     width: 100%;     
+}
+.piedefoto{
+     padding: 5px;
+}
+.div3{
+    background-color: white;
+     margin: 50px auto ;
+    width: 25%;
+}
+.cuerpo2 {
+     display: flex;
+     justify-content: space-between;
+    }
+.cuerpo2,.piedefoto2{
+     background-color: white;
+}
+.div3 img{
+     height: 500px;
+     width: 100%;
+     
+}
+.piedefoto2{
+     padding: 5px;
+}
+.div4{
+    background-color: white;
+     margin-left: auto;
+     margin-right: auto;
+    width: 25%;
+}
+.cuerpo3 {
+     display: flex;
+     justify-content: space-between;
+}
+.cuerpo3,.piedefoto3{
+     background-color: white;
+}
+.div4 img{
+     height: 500px;
+     width: 100%;
+     
+}
+.piedefoto3{
+     padding: 5px;
+}
+h2,p{
+    margin: 20px;
+}
+.div4 .piedefoto3{
+    margin-bottom: 50px;
+}
